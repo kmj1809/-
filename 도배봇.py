@@ -35,4 +35,4 @@ async def on_message_delete(message):
 	return
 
 
-client.run('ODYxMTcxNDQ0MjY3MzUyMDc0.YOF6aA.hfsh50j4yT7NKMdZ810JT--BA98')
+client.run('ODYxMTcxNDQ0MjY3MzUyMDc0.YOF6aA.LRGjDL8OTtCgrWpTOd5HtrlcnKU')
